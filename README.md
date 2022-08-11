@@ -23,7 +23,8 @@ and Hackathons <br>
 
 - 💬 Ask me about **Html & CSS**
 
-- 📫 How to reach me **qfaizan489@gmail.com**
+- 📫 How to reach me **    <a href="https://myaccount.google.com/?utm_source=sign_in_no_continue&pli=1">qfaizan489@gmail.com</a>
+**
 
 - ⚡ Fun fact **I am Funny**
 
