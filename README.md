@@ -41,7 +41,7 @@ and Hackathons <br>
 <a href="https://instagram.com/ Name " target="blank"><img align="center"
 			src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
 			alt="shehza.d" height="30" width="40" /></a>
-	<a href="https://www.youtube.com/channel/  link " target="blank"><img align="center"
+	<a href="https://www.youtube.com/channel/UCJux6uDUJrMm0m6zoMGnnUA " target="blank"><img align="center"
 			src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
 			alt="YouTube" height="40" width="40" /></a>
 	<a href="https://www.upwork.com/freelancers/~01546dfc05e27f7975 " target="blank"><img align="center"
