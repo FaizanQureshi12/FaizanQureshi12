@@ -36,7 +36,7 @@ and Hackathons <br>
 			alt="shehza_d_" height="30" width="40" /></a>
 
 <a href="https://stackoverflow.com/users/19401028/faizan-qureshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19401028/faizan-qureshi" height="30" width="40" /></a>
-<a href="https://fb.com/faizanqureshi.aslamhussain.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/faizanqureshi.aslamhussain.1" height="30" width="40" /></a>
+<a href="https://fb.com/Dynamic-Earth-103901895797906" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/faizanqureshi.aslamhussain.1" height="30" width="40" /></a>
 
 <a href="https://instagram.com/ Name " target="blank"><img align="center"
 			src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
